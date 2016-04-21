@@ -1,0 +1,29 @@
+{
+  "name": "koa-filter",
+  "version": "0.0.1",
+  "description": "Filter middleware for koa.",
+  "main": "lib/index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seandou/koa-filter.git"
+  },
+  "keywords": [
+    "filter",
+    "koa"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">= 4"
+  },
+  "author": "Sean Dou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seandou/koa-filter/issues"
+  },
+  "homepage": "https://github.com/seandou/koa-filter#readme"
+}
